@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tolulope Saliu @TolulsDev
-- 👀 I’m interested in Frontend development, React, JAMStack, Bejamas!
+- 👀 I’m interested in Frontend development, React, JAMStack and Bejamas!
 
 <!---
 TolulsDev/TolulsDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
