@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tolulope Saliu @TolulsDev
+- 👋 Hi, I’m Tolulope Saliu @TolulsDev. I'm a passionate front-end developer who enjoys transforming ideas and designs into clean, elegant code and products.
 - 👀 I’m interested in Frontend development, React, JAMStack and Bejamas!
 
 <!---
